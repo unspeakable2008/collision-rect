@@ -1,2 +1,2 @@
-# collision-rect
-i d k what to write
+# p5.play-boilerplate
+Boiler plate for p5.play
